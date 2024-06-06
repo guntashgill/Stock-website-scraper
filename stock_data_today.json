@@ -1,0 +1,47 @@
+[
+    {
+        "symbol": "LULU",
+        "price": "323.19",
+        "change": "+14.92"
+    },
+    {
+        "symbol": "AAPL",
+        "price": "195.24",
+        "change": "-0.63"
+    },
+    {
+        "symbol": "TSLA",
+        "price": "178.24",
+        "change": "+3.24"
+    },
+    {
+        "symbol": "AMZN",
+        "price": "183.82",
+        "change": "+2.54"
+    },
+    {
+        "symbol": "GOOGL",
+        "price": "176.93",
+        "change": "+1.52"
+    },
+    {
+        "symbol": "MSFT",
+        "price": "423.49",
+        "change": "-0.52"
+    },
+    {
+        "symbol": "META",
+        "price": "495.04",
+        "change": "-0.02"
+    },
+    {
+        "symbol": "NFLX",
+        "price": "650.10",
+        "change": "-0.17"
+    },
+    {
+        "symbol": "NVDA",
+        "price": "1,203.07",
+        "change": "-21.33"
+    }
+]
